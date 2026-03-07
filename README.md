@@ -144,3 +144,19 @@ Implemented functionality to view contacts grouped by city or state.
 - Used *Java Streams* for processing and displaying results.
 
 [UC9-view-persons-by-city-or-state](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC9-view-persons-by-city-or-state/src)
+
+---
+
+## UC10 – Ability to Count Contacts by City or State
+
+Implemented functionality to count number of contacts in each city or state.
+
+*Features Implemented*
+
+- Display *number of persons in a particular city*.
+- Display *number of persons in a particular state*.
+- Used *Java Streams* for counting and aggregation.
+
+[UC10-count-contacts-by-city-or-state](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC10-count-contacts-by-city-or-state/src)
+
+---
