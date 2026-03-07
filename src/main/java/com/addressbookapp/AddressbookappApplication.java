@@ -19,8 +19,6 @@ public class AddressbookappApplication {
 		System.out.println("Welcome to Address Book");
 
 		AddressBookController controller = context.getBean(AddressBookController.class);
-
 		controller.start();
-
 	}
 }
