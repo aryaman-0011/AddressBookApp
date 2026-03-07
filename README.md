@@ -130,3 +130,17 @@ Implemented functionality to search for contacts across multiple Address Books b
 [UC8-search-person-by-city-or-state](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC8-search-person-by-city-or-state/src)
 
 ---
+
+## UC9 – Ability to View Persons by City or State
+
+Implemented functionality to view contacts grouped by city or state.
+
+*Features Implemented*
+
+- Maintained *Dictionary (HashMap)* for:
+  - City → Person
+  - State → Person
+- Used *Collection Library* for mapping.
+- Used *Java Streams* for processing and displaying results.
+
+[UC9-view-persons-by-city-or-state](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC9-view-persons-by-city-or-state/src)
