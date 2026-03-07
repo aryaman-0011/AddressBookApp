@@ -113,8 +113,20 @@ Implemented validation to prevent duplicate contacts in the same Address Book.
 - Overrode *equals() method* in Contact class.
 - Used *Java Streams* to check duplicate entries before adding.
 
-*GitHub Branch*
+[UC7-prevent-duplicate-contact](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC7-prevent-duplicate-contact/src)
 
-[feature/UC7-prevent-duplicate-contact](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC7-prevent-duplicate-contact/src)
+---
+
+## UC8 – Ability to Search Person by City or State
+
+Implemented functionality to search for contacts across multiple Address Books by city or state.
+
+*Features Implemented*
+
+- Search persons using *city or state*.
+- Results can return *multiple persons*.
+- Used *Java Streams* for filtering contacts.
+
+[UC8-search-person-by-city-or-state](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC8-search-person-by-city-or-state/src)
 
 ---
