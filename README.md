@@ -211,3 +211,17 @@ Implemented functionality to store and retrieve Address Book contacts using Java
 
 ---
 
+## UC14 – Ability to Read/Write Address Book as CSV File
+
+Implemented functionality to store and retrieve Address Book contacts in *CSV format*.
+
+*Features Implemented*
+
+- Used *OpenCSV Library* to handle CSV file operations.
+- Implemented *write operation* to store contacts in CSV format.
+- Implemented *read operation* to load contacts from CSV file.
+- Displayed retrieved data in the console.
+
+[UC14-read-write-addressbook-csv](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC14-read-write-addressbook-csv/src)
+
+---
