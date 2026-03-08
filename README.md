@@ -283,3 +283,18 @@ Implemented functionality to update contact information in the Address Book and 
 [UC17-update-contact-and-sync-with-db](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC17-update-contact-and-sync-with-db/src)
 
 ---
+
+## UC18 – Ability to Retrieve Contacts Added Within a Particular Period
+
+Implemented functionality to retrieve contacts added during a specific time period.
+
+*Features Implemented*
+
+- Used *JDBC* for database operations.
+- Added *date_added field* in the database table.
+- Retrieved contacts based on *date range query*.
+- Displayed filtered results in the system.
+
+[UC18-retrieve-contacts-by-date-range](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC18-retrieve-contacts-by-date-range/src)
+
+---
