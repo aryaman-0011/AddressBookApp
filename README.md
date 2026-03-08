@@ -371,6 +371,6 @@ Implemented functionality to add multiple entries to JSON Server and sync with a
 - Added *multiple entries* to JSON Server.
 - Synced data with *Address Book memory*.
 
-[feature/UC23-add-multiple-entries-jsonserver](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC23-add-multiple-entries-jsonserver/src)
+[UC23-add-multiple-entries-jsonserver](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC23-add-multiple-entries-jsonserver/src)
 
 ---
