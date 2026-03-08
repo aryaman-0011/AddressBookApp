@@ -342,3 +342,21 @@ Implemented functionality to insert multiple contacts into the Address Book data
 - Used *multithreading* for concurrent insertions.
 
 [UC21-add-multiple-contacts-multithreading](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC21-add-multiple-contacts-multithreading/src)
+
+---
+# Section 5: REST Assured
+---
+
+## UC22 – Ability to Read Entries of Address Book from JSONServer
+
+Implemented functionality to read Address Book entries from JSON Server.
+
+*Features Implemented*
+
+- Used *REST Assured* with *JUnit tests*.
+- Retrieved entries from *JSON Server*.
+- Updated *application memory* with retrieved data.
+
+[UC22-read-entries-from-jsonserver](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC22-read-entries-from-jsonserver/src)
+
+---
