@@ -239,3 +239,20 @@ Implemented functionality to store and retrieve Address Book contacts in *JSON f
 
 [UC15-read-write-addressbook-json](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC15-read-write-addressbook-json/src)
 
+---
+# Section 3: JDBC 
+---
+## UC16 – Ability for AddressBook Service to Retrieve All Entries from Database
+
+Implemented functionality to retrieve all contacts stored in the Address Book database.
+
+*Features Implemented*
+
+- Used *JDBC* to connect with the database.
+- Retrieved all contact records from the database.
+- Followed *TDD approach using JUnit Test cases*.
+- Verified database data retrieval through automated tests.
+
+[UC16-retrieve-contacts-from-database](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC16-retrieve-contacts-from-database/src)
+
+---
