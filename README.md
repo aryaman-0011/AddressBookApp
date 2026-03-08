@@ -256,3 +256,14 @@ Implemented functionality to retrieve all contacts stored in the Address Book da
 [UC16-retrieve-contacts-from-database](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC16-retrieve-contacts-from-database/src)
 
 ---
+
+## REFACTOR
+
+Refactored the system to ensure *JUnit Test cases are written for all Use Cases of the Address Book application*.
+
+*Actions Performed*
+
+- Added *JUnit test cases* for existing functionalities.
+- Ensured *code structure supports testing*.
+
+---
