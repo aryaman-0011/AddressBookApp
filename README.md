@@ -73,4 +73,16 @@ Implemented functionality to delete a contact from the Address Book.
 
 ---
 
+## UC5 – Ability to Add Multiple Persons to Address Book
 
+Implemented functionality to add multiple contacts to the Address Book.
+
+*Features Implemented*
+
+- Used *console input* to add person details one at a time.
+- Used *Collection Class (ArrayList)* to store multiple contacts.
+- Address Book can now manage multiple persons.
+
+[UC5-add-multiple-contacts](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC5-add-multiple-contacts/src)
+
+---
