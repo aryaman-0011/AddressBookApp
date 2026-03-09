@@ -101,3 +101,18 @@ Refactored the program to support multiple Address Books in the system.
 [UC6-multiple-addressbooks](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC6-multiple-addressbooks/src)
 
 ---
+
+## UC7 – Prevent Duplicate Entry of Same Person
+
+Implemented validation to prevent duplicate contacts in the same Address Book.
+
+*Features Implemented*
+
+- Checked duplicate entries based on *person name*.
+- Used *Collection methods* to search contacts.
+- Overrode *equals() method* in Contact class.
+- Used *Java Streams* to check duplicate entries before adding.
+
+[UC7-prevent-duplicate-contact](https://github.com/aryaman-0011/AddressBookApp/tree/feature/UC7-prevent-duplicate-contact/src)
+
+---
